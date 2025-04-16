@@ -29,7 +29,7 @@ const Cards = () => {
       <div className="col-span-2 flex gap-4 justify-center h-[230px] block-card wow animate__animated animate__fadeInUp">
         <a style={{ width: '105%' }} href="/webdev">
           <CardBlock logo="frameworks.svg" h="Разработка сайтов на фреймворках" p="Разработка сайтов на современных фреймворках. FastApi, NEXT.JS, VUE" /></a>
-        <CardBlock className="w-[100%]" logo="design icon.svg" h="Разработка дизайна" p="Создание макетов. UX/UI дизайн" />
+        <CardBlock logo="design icon.svg" h="Разработка дизайна" p="Создание макетов. UX/UI дизайн" />
       </div>
 
       <div className="grid grid-cols-3 gap-4 col-span-2 justify-center mx-auto mt-[-132px] block-card t-card wow animate__animated animate__fadeInUp">
