@@ -15,7 +15,7 @@ export default function AboutPage() {
     return (
         <div className="flex justify-center items-center flex-col content-max w-[100%]">
                     <WowInit />
-            <div className="main-contaner">
+            <div className="main-contaner w-[100%]">
                 <div className="home-container w-full flex-col flex items-cente">
                     <NavBar></NavBar>
                     <div className="bg-block_1 animate__animated animate__fadeIn">
